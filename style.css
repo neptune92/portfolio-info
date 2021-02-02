@@ -1,0 +1,65 @@
+
+/* below nav section css */
+
+.navbar-brand , .nav-link {
+    background-color: rgb(177, 121, 121);
+}
+
+.nav-link {
+    margin: 7px;
+}
+/* end of nav css*/
+
+
+
+main, html {
+    background-color: rgb(211, 214, 221);
+}
+
+
+/* below header */
+
+header {
+
+    font-size: 25px;
+
+    color: rgb(177, 121, 121);
+
+    font-weight: bold;
+}
+
+
+
+.col-6 {
+    margin-bottom: 40px;
+
+}
+
+
+/* below media queries */
+
+@media only screen and (min-width: 320px) and (max-width: 1024px) {
+
+p {
+    font-size: 20px;
+}
+
+.nav-item {
+    background-color: rgb(177, 121, 121);
+}
+
+}
+
+
+
+@media only screen and (min-width:280px) and (orientation: portrait) {
+
+p {
+    font-size: 20px;
+}
+
+.col-6 {
+    margin-right: 10px;
+}
+
+}
