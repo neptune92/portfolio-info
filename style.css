@@ -14,7 +14,7 @@
 
 
 main, html {
-    background-color: rgb(211, 214, 221);
+    background-color: rgb(166, 229, 245);
 }
 
 
@@ -42,16 +42,35 @@ header {
     font-family: 'Nothing You Could Do', cursive;
 }
 
+.btn-sm {
+    background-color: orange;
+}
+
+
+
+.card {
+    background-color: orange;
+    color: #000;
+}
+
+
+.nav-item {
+    background-color: rgb(177, 121, 121);
+}
+
+
+
+
+
+
+
+
 /* below media queries */
 
 @media only screen and (min-width: 320px) and (max-width: 1024px) {
 
 p {
     font-size: 20px;
-}
-
-.nav-item {
-    background-color: rgb(177, 121, 121);
 }
 
 }
