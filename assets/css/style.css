@@ -24,7 +24,7 @@ header {
 
     font-size: 25px;
 
-    color: rgb(177, 121, 121);
+    color: rgb(255, 255, 255);
 
     font-weight: bold;
 }
@@ -36,15 +36,11 @@ h3 {
     font-family: 'Nothing You Could Do', cursive;
 }
 
-.social-container {
-    border: purple;
-}
-
 
 
 
 .card {
-    background-color: rgb(177, 121, 121);
+    background-color: rgb(245, 185, 185);
     color: #000;
 }
 
@@ -55,7 +51,7 @@ h3 {
 
 
 
-hr, .social-media, .submitButton {
+hr, .social-media, .submitButton, .profile-btn {
     background-color: rgb(225, 193, 240);
 }
 
