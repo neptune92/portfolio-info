@@ -37,6 +37,9 @@ h3 {
 }
 
 
+.move {
+   image-orientation: flip;
+}
 
 
 .card {
@@ -45,13 +48,8 @@ h3 {
 }
 
 
-.nav-item {
-    background-color: rgb(177, 121, 121);
-}
 
-
-
-hr, .social-media, .submitButton, .profile-btn {
+.social-media, .submitButton, .profile-btn {
     background-color: rgb(225, 193, 240);
 }
 
