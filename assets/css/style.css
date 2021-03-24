@@ -50,6 +50,14 @@ h3 {
 }
 
 
+embed {
+    display: block;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 
 
 /* below media queries */
